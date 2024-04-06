@@ -1,0 +1,10 @@
+@media (max-width:768px)
+{
+  .navbar-inverse .navbar-nav > li > a{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .subscribe button{
+    margin-top: 7px;
+  }
+}
